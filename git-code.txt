@@ -29,3 +29,6 @@ git checkout master
       rejected：master(non-fast-forward)
       error: failed to push some refs to GITHUB
 解決方法：先使用git pull把remote repo的記錄先更新下來。再重新push上去。
+
+
+20191207-增加檔案
